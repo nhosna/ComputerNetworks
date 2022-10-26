@@ -1,0 +1,3 @@
+install networkx and matplotlib packages before running
+run network.py
+to print logs to console set LOGGING to true in constants.py
