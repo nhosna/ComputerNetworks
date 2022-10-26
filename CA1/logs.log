@@ -1,0 +1,3 @@
+[2020-04-17 20:15:22,724] (MainThread) Server started:Listen on: 127.0.1.1, 8000
+[2020-04-17 20:15:33,571] (MainThread) Accept:Created a new connection ('127.0.0.1', 43006) ,<socket._socketobject object at 0x7fd1c0c12980>  
+[2020-04-17 20:15:34,874] (Thread-2  ) Server:Client at ('127.0.0.1', 43006) <socket._socketobject object at 0x7fd1c0c12980> quitted.
